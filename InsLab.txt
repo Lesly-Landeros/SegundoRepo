@@ -1,0 +1,23 @@
+1.- Entrar a su cuenta de GitHub y crear un repositorio llamado SegundoRepo
+2.- Clonar el repositorio SegundoRepo en su computadora, en la carpeta del curso
+        git clone https://github.com/Lesly-Landeros/SegundoRepo.git
+3.- Ingresar al repositorio usando cd SegundoRepo
+4.- Abrir el visual studio code. Escribir code .
+5.- Crear los siguientes archivos:  alumno1.py, alumno2.py, alumno3.py, readme.md
+        touch alumno1.py alumno2.py alumno3.py readme.md
+6.- Poner en seguimiento unicamente los archivo .py
+ 
+7.- Hacer un commit con el mensaje "add alumno 1,2,3"
+ 
+9.- Poner en seguimiento el archivo readme.md
+ 
+10.-Hacer un commit con el mensaje "add readme"
+ 
+11.-Mostrar la historia del repositorio
+ 
+12.-A los archivos .py agregar a cada uno de ellos en print("hola")
+13.-Prepara los cambios de los archivos y hacer commit con el mensaje "add saludo"
+14.-Al archivo alumno3.py, agregarle el print("saludos")
+15.-Preparar el archivo3.py para hacer commit
+16.-Quita el archivo3.py del area de preparacion
+17.-Restaura el archivo3.py descartando los cambios hechos.
